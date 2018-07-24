@@ -1,0 +1,7 @@
+Admin,admin123,success
+NA,admin123,user Name cannot  beempty
+admin123,NA,password cannot be empty
+NA,NA,username or password cannot be empty
+admin123,admin,Invalid creadetials
+aaasbs,bbbbbbb,Invalid Creadetials
+aaaaa,cccccccb,Invalid Creadetials
